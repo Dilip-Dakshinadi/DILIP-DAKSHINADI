@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dakshinadi-dilip-30455239a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/dakshinadi-dilip-30455239a?utm_source=share_via&utm_content=profile&utm_medium=member_android" />
   </a>
   <a href="mailto:dakshinadidilip107@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
