@@ -1,6 +1,6 @@
 # Dakshinadi Dilip
 
-**Mobile Systems Engineer & Applied Data Practitioner**  
+**software Engineer & python developer**  
 *Building secure mobile applications, IoT telemetry hardware, and machine learning pipelines.*
 
 <p align="left">
@@ -28,8 +28,7 @@
 
 | Domain | Stack & Technologies |
 | :--- | :--- |
-| **Languages** | Python, Dart, C++, Java, SQL, C |
-| **Mobile & Embedded** | Flutter, Android SDK, ESP32, BLE, Firebase, Arduino |
+| **Languages** | Python, C++,C |
 | **Data & Systems** | NumPy, Pandas, Scikit-Learn, Git, GitHub Actions, VS Code |
 
 ---
