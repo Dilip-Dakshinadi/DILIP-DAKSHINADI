@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dakshinadi Dilip
 
-<h3 align="center">Software Engineer | Python Developer | AI & IoT Enthusiast</h3>
+<h3 align="center">Software Engineer | Python Developer |</h3>
 
 <p align="center">
   Building intelligent applications, secure systems, and innovative technology solutions.
