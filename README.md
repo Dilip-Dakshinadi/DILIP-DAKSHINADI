@@ -34,20 +34,8 @@
 **Frameworks & Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=fl,ms word,git,github" />
 </p>
-
-**Data Science & Machine Learning**
-
-- NumPy
-- Pandas
-- Scikit-learn
-- Machine Learning
-- Data Analysis
-- Natural Language Processing
-
----
-
 ## 🚀 Featured Projects
 
 ### 🛡️ SafetyShield – Personal Safety Application
