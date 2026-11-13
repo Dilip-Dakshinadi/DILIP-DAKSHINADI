@@ -29,11 +29,6 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp" />
-</p>
-
-**Frameworks & Tools**
-
-<p>
 <img src="https://skillicons.dev/icons?i=fl,ms word,git,github" />
 </p>
 ## 🚀 Featured Projects
